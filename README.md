@@ -4,21 +4,19 @@
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
-	<a href="https://namu.wiki/w/Java">
-		<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-	</a>
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
+	<a href="https://namu.wiki/w/Java"><img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
+	<a href="https://namu.wiki/w/Java"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white"/></a>
+	<a href="https://namu.wiki/w/Java"><img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" /></a>
 	<br>
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+	<a href="https://namu.wiki/w/Java"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /></a>
+	<a href="https://namu.wiki/w/Java"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /></a>
+	<a href="https://namu.wiki/w/Java"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /></a>
 	<br>
 	<br>
 	<p>🛠 Tools 🛠</p>
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/SqlDeveloper-809CC9?style=flat&logo=Oracle&logoColor=white" />
+	<a href="https://namu.wiki/w/Java"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
+	<a href="https://namu.wiki/w/Java"><img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" /></a>
+	<a href="https://namu.wiki/w/Java"><img src="https://img.shields.io/badge/SqlDeveloper-809CC9?style=flat&logo=Oracle&logoColor=white" /></a>
 	<br>
 	<br>
 	<p>🎨 SNS & Portfolio 🎨</p>
