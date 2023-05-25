@@ -20,7 +20,7 @@
 	<br>
 	<br>
 	<p>🎨 SNS & Portfolio 🎨</p>
-	<a href="https://yermi.co.kr"><img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" /></a>
+	<a href="#"><img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" /></a>
 	<a href="mailto:2001february@mokpo.ac.kr"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" /></a>
 	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
 	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
@@ -40,8 +40,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hun&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=hun&show_icons=true">
-
-
-- 게시판만들기
-- 개발도구
-- Eclipse-web-Developer, SQLPLUS사용
