@@ -23,8 +23,7 @@
 	<a href="https://namu.wiki/w/JavaScript">
 	  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	</a>
-	<br>
-	<br>
+	<br><br>
 	<p>🛠 Tools 🛠</p>
 	<a href="https://www.google.com/search?q=eclipse+github+%EC%97%B0%EB%8F%99&oq=eclipse+github+&aqs=chrome.1.69i57j0i512l9.9755j0j9&sourceid=chrome&ie=UTF-8">
 	  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
@@ -38,23 +37,13 @@
 	<br>
 	<br>
 	<p>🎨 SNS & Portfolio 🎨</p>
-	<a href="#"><img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" /></a>
-	<a href="mailto:2001february@mokpo.ac.kr"><img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" /></a>
-	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
-	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	<a href="#">
+	  <img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
-	<br>
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
-	<img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
-
-	![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kycasdzxc)
-
-<br>
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kycasdzxc)](https://solved.ac/kycasdzxc)
+	<a href="mailto:2001february@mokpo.ac.kr">
+	  <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+	</a>
+	<br><br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hun&layout=compact"><br><br>
+	<img src="https://github-readme-stats.vercel.app/api?username=hun&show_icons=true">
 </div>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hun&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=hun&show_icons=true">
