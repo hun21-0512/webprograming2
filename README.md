@@ -14,25 +14,25 @@
 	  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 	</a>
 	<br>
-	<a href="https://namu.wiki/w/Java">
+	<a href="https://namu.wiki/w/HTML5">
 	  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	</a>
-	<a href="https://namu.wiki/w/Java">
+	<a href="https://namu.wiki/w/CSS">
 	  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	</a>
-	<a href="https://namu.wiki/w/Java">
+	<a href="https://namu.wiki/w/JavaScript">
 	  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	</a>
 	<br>
 	<br>
 	<p>🛠 Tools 🛠</p>
-	<a href="https://namu.wiki/w/Java">
+	<a href="https://github.com/">
 	  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 	</a>
-	<a href="https://namu.wiki/w/Java">
+	<a href="https://www.eclipse.org/downloads/">
 	  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	</a>
-	<a href="https://namu.wiki/w/Java">
+	<a href="https://www.oracle.com/database/sqldeveloper/technologies/download/">
 	  <img src="https://img.shields.io/badge/SqlDeveloper-809CC9?style=flat&logo=Oracle&logoColor=white" />
 	</a>
 	<br>
