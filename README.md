@@ -7,7 +7,7 @@
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hun&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=2001febraury@gmail.com&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=hun.com&show_icons=true">
 
 
 - 게시판만들기
