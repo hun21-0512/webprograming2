@@ -43,7 +43,4 @@
 	<a href="mailto:2001february@mokpo.ac.kr">
 	  <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<br><br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hun&layout=compact"><br><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=hun&show_icons=true">
 </div>
